@@ -2,9 +2,9 @@ version: 1
 service:
   name: Sample 101
   lifecycle: beta
-  tier: tier_3
+  tier: tier_2
   product: Procurement
   owner: inventory_team
   language: Ruby
   framework: Rails
-  description: Manages Samples for our inventory service with yaml config
+  description: Manages Samples for our inventory service with yaml config!
