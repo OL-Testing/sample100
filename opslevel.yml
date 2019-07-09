@@ -1,6 +1,6 @@
 version: 1
 service:
-  name: Sample 102
+  name: Sample 101
   lifecycle: beta
   tier: tier_2
   product: Procurement
