@@ -1,1 +1,1 @@
-sample application
+sample repository application
