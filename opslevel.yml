@@ -2,7 +2,7 @@ version: 1
 service:
   name: Sample 102
   lifecycle: beta
-  tier: tier_1
+  tier: tier_3
   product: Procurement
   owner: inventory_team
   language: Ruby
